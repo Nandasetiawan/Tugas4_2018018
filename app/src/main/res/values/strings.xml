@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Apcamera</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawe</string>
+    <string name="deskription_menu">24.2MP APS-C CMOS Sensor, Resolusi Maksimum 6000 x 4000 pixels, Aspek Rasio 3:2,ISO Maksimum 25600, 5 fps Shooting. Shutter Speed 30 - 1/4000 sec.DIGIC 6 Image Processor.3.0″ 1.04m-dot Vari-Angle Touchscreen.Full HD 1080p Video Recording at 30 fps.</string>
+    <string name="ingredients">Lensa Canon</string>
+    <string name="Lensa">Lensa 50mm, Lensa 85mm</string>
+    <string name="price">PRICE</string>
+    <string name="Harga_canon">Rp. 12.000.000.00</string>
+  //Menu Nikon
+    <string name="navigation_drawer_open1">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close1">Close Navigation Drawe</string>
+    <string name="deskription_menu1">24MP - Full frame CMOS SensorISO 100 - 12800( expands to 50-51200)3.2" Tilting ScreenOptical (pentaprism) viewfinder6.5 fps continuous shooting1920 x 1080 video resolutionBuilt-in Wireless840g. 141 x 113 x 78 Weather Sealed Body</string>
+    <string name="ingredients1">Lensa Nikon</string>
+    <string name="Lensa1">Lensa 50mm, Lensa 85mm</string>
+    <string name="price1">PRICE</string>
+    <string name="Harga_nikon1">Rp. 15.000.000.00</string>
+</resources>
